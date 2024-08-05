@@ -1,0 +1,25 @@
+_repo: Els-aucells-mes-utils-a-la-agricultura-de-Catalunya_74159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarré, Emili
+    gutenberg_agent_id: '57376'
+    url: http://www.gutenberg.org/2009/agents/57376
+description: ''
+gutenberg_issued: '2024-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74159'
+language: ca
+pgterms:marc905: 20240729031049tarr
+pgterms:marc906: '1902'
+pgterms:marc907: ES
+production_note: 'digital editor: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bEstampa de Fills de J.Jepús, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Els aucells més útils a la agricultura de Catalunya
+url: http://www.gutenberg.org/ebooks/74159
